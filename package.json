@@ -1,0 +1,19 @@
+{
+  "name": "raspberry-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Necis",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "mysql2": "^1.5.3",
+    "node-rfid": "^1.0.7",
+    "sequelize": "^4.37.7",
+    "serialport": "^6.2.0"
+  }
+}
