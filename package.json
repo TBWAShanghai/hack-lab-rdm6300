@@ -1,7 +1,7 @@
 {
   "name": "raspberry-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "raspberry read rfid of rdm6300 with nodejs serialport.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
